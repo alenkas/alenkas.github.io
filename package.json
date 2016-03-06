@@ -1,0 +1,26 @@
+{
+  "name": "alenka-space-game",
+  "version": "1.0.0",
+  "description": "Awesome && crazy html5 game",
+  "main": "electron-main.js",
+  "scripts": {
+    "start": "electron electron-main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/atom/electron-quick-start.git"
+  },
+  "keywords": [
+    "Electron",
+    "Game"
+  ],
+  "author": "Alenka",
+  "license": "LGPL",
+  "bugs": {
+    "url": "https://github.com/alenkas/alenkas.github.io/issues"
+  },
+  "homepage": "https://github.com/alenkas/alenkas.github.io",
+  "devDependencies": {
+    "electron-prebuilt": "^0.36.0"
+  }
+}
